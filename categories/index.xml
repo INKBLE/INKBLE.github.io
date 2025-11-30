@@ -7,20 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>INKBLE - Guo Yicheng</copyright>
-        <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>起点</title>
-        <link>http://localhost:1313/categories/%E8%B5%B7%E7%82%B9/</link>
-        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>随想</title>
+        <link>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</link>
+        <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E8%B5%B7%E7%82%B9/</guid>
+        <guid>http://localhost:1313/categories/%E9%9A%8F%E6%83%B3/</guid>
         <description></description>
         </item>
         <item>
         <title>日常</title>
         <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
-        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>讨论</title>
+        <link>http://localhost:1313/categories/%E8%AE%A8%E8%AE%BA/</link>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E8%AE%A8%E8%AE%BA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>起点</title>
+        <link>http://localhost:1313/categories/%E8%B5%B7%E7%82%B9/</link>
+        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E8%B5%B7%E7%82%B9/</guid>
         <description></description>
         </item>
         
